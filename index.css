@@ -18,11 +18,11 @@ ul {
     font-size: 25px;
 }
 p {
-    margin-top: 444%;
+    color: aliceblue;
     margin: 0 auto;
     width: 0%;
-    font-size: 24px;
-    color:rgb(255, 255, 255);
+    font-size: 30px;
+    margin-bottom: 20px;
 }
 li {
     border-bottom: 200px;
@@ -34,17 +34,15 @@ h1 {
     color: rgb(255, 255, 255)
 }
 a {
-    
     height: 50px; 
     padding: 5px;
     border-bottom: 20px;
      text-decoration: none;
     border-top:0px solid #000;
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 33px;
 }
 table {
-   
     font-size: 20px;
     margin: 0 auto;
     width: 50%;
@@ -53,6 +51,8 @@ table {
     padding: 15px;
     border-collapse: collapse;
     border-color: rgb(0, 0, 0);
+    margin-bottom: 50px;
+    margin-top: 30px;
 }
 td {
     font-size: 20px;
