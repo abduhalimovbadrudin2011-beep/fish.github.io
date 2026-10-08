@@ -18,7 +18,7 @@ ul {
     font-size: 25px;
 }
 p {
-    margin-top: 444444px;
+    margin-top: 444%;
     margin: 0 auto;
     width: 0%;
     font-size: 24px;
@@ -30,7 +30,6 @@ li {
 }
 h1 {
     text-align: center;
-    border-bottom: 1000px;
     font-size: 300%;
     color: rgb(255, 255, 255)
 }
